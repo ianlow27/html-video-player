@@ -1,0 +1,19 @@
+{
+    "name": "ianl28/html-video-player",
+    "description": "PHP class that outputs the HTML, JavaScript and CSS code for a HTML-based video player.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ianl28\\HtmlVideoPlayer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ian Low",
+            "email": "ianlow28@gmail.com"
+        }
+    ],
+    "require": {
+       "php": ">=7.4"
+    }
+}
